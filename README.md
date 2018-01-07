@@ -50,7 +50,8 @@ https://calendar.google.com/calendar/embed?src=q15dd3522a6i3olq6u98vhkafo%40grou
 
 
 ## Extra Info
-* Tested on iOS Simulator (iPhone 6)
-* Possible troubleshot:
+* Tested on iOS Simulator (iPhone 6) only
+* Possible issues on Android, and devices with screen sizes, which differ from iPhone 6
+* Possible issues:
   * when events last whole day, or longer than 24hrs
   * landscape view on device might be different from vertical
