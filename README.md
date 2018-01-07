@@ -48,3 +48,8 @@ https://calendar.google.com/calendar/embed?src=q15dd3522a6i3olq6u98vhkafo%40grou
   <img src="/Screenshots/SimulatorScreen_06.png" width="300"/>  
 </kbd></br></br></br>
 
+
+## Extra Info
+* Tested on iOS Simulator (iPhone 6)
+* Possible troubleshot:
+  * when events last whole day or longer than 24hrs
