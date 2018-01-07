@@ -22,14 +22,14 @@ React-Native application, which synchronizes info from Google Calendar
 Link to Google Calendar: https://calendar.google.com/calendar/embed?src=q15dd3522a6i3olq6u98vhkafo%40group.calendar.google.com&ctz=Europe%2FAthens
 
 ## Application Screenshots:
-### Initializing App screen  
+<b> Initializing App screen</b>  </br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_01.png" width="300"/>  
-</kbd>
-### Event-in-progress screen  
+</kbd></br>
+<b> Event-in-progress screen  </b></br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_02.png" width="300"/>  
-</kbd>
+</kbd></kbd></br>
 ### Event details screen  
 <kbd>
   <img src="/Screenshots/SimulatorScreen_03.png" width="300"/>  
