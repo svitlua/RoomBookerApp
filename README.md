@@ -26,12 +26,10 @@ Link to Google Calendar: https://calendar.google.com/calendar/embed?src=q15dd352
 <kbd>
   <img src="/Screenshots/SimulatorScreen_01.png" width="300"/>
 </kbd>
-</br>
-### Event-in-progress screen </br>
+### Event-in-progress screen 
 <kbd>
   <img src="/Screenshots/SimulatorScreen_02.png" width="300"/>
 </kbd>
-</br>
 ### Event details screen</br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_03.png" width="300"/>
