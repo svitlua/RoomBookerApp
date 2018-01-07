@@ -30,19 +30,19 @@ Link to Google Calendar: https://calendar.google.com/calendar/embed?src=q15dd352
 <kbd>
   <img src="/Screenshots/SimulatorScreen_02.png" width="300"/>  
 </kbd></br>
-### Event details screen  
+<b>Event details screen </b>  </br> 
 <kbd>
   <img src="/Screenshots/SimulatorScreen_03.png" width="300"/>  
 </kbd></br>
-### Future events screen  
+<b> Future events screen  </b>  </br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_04.png" width="300"/>  
 </kbd></br>
-### Past events screen  
+<b> Past events screen  </b>  </br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_05.png" width="300"/>  
 </kbd></br>
-### No events scheduled screen  
+<b> No events scheduled screen  </b>  </br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_06.png" width="300"/>  
 </kbd></br>
