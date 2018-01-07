@@ -29,21 +29,21 @@ Link to Google Calendar: https://calendar.google.com/calendar/embed?src=q15dd352
 <b> Event-in-progress screen  </b></br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_02.png" width="300"/>  
-</kbd></kbd></br>
+</kbd></br>
 ### Event details screen  
 <kbd>
   <img src="/Screenshots/SimulatorScreen_03.png" width="300"/>  
-</kbd>
+</kbd></br>
 ### Future events screen  
 <kbd>
   <img src="/Screenshots/SimulatorScreen_04.png" width="300"/>  
-</kbd>
+</kbd></br>
 ### Past events screen  
 <kbd>
   <img src="/Screenshots/SimulatorScreen_05.png" width="300"/>  
-</kbd>
+</kbd></br>
 ### No events scheduled screen  
 <kbd>
   <img src="/Screenshots/SimulatorScreen_06.png" width="300"/>  
-</kbd>
+</kbd></br>
 
