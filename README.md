@@ -41,7 +41,6 @@ Link to Google Calendar: https://calendar.google.com/calendar/embed?src=q15dd352
 <kbd>
   <img src="/Screenshots/SimulatorScreen_04.png" width="300"/>
 </kbd>
-</br>
 ### Past events screen</br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_05.png" width="300"/>
