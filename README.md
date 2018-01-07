@@ -19,6 +19,8 @@ React-Native application, which synchronizes info from Google Calendar
 * ----timeUtil.js
 *-index.js
 
+Link to Google Calendar: https://calendar.google.com/calendar/embed?src=q15dd3522a6i3olq6u98vhkafo%40group.calendar.google.com&ctz=Europe%2FAthens
+
 ## Application Screenshots:
 #### Initializing App Screen
 <kbd>
