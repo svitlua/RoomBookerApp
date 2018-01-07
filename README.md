@@ -24,27 +24,26 @@ Link to Google Calendar: https://calendar.google.com/calendar/embed?src=q15dd352
 ## Application Screenshots:
 ### Initializing App screen  
 <kbd>
-  <img src="/Screenshots/SimulatorScreen_01.png" width="300"/>
+  <img src="/Screenshots/SimulatorScreen_01.png" width="300"/>  
 </kbd>
 ### Event-in-progress screen  
 <kbd>
-  <img src="/Screenshots/SimulatorScreen_02.png" width="300"/>
+  <img src="/Screenshots/SimulatorScreen_02.png" width="300"/>  
 </kbd>
 ### Event details screen  
 <kbd>
-  <img src="/Screenshots/SimulatorScreen_03.png" width="300"/>
+  <img src="/Screenshots/SimulatorScreen_03.png" width="300"/>  
 </kbd>
 ### Future events screen  
 <kbd>
-  <img src="/Screenshots/SimulatorScreen_04.png" width="300"/>
+  <img src="/Screenshots/SimulatorScreen_04.png" width="300"/>  
 </kbd>
 ### Past events screen  
 <kbd>
-  <img src="/Screenshots/SimulatorScreen_05.png" width="300"/>
+  <img src="/Screenshots/SimulatorScreen_05.png" width="300"/>  
 </kbd>
 ### No events scheduled screen  
 <kbd>
-  <img src="/Screenshots/SimulatorScreen_06.png" width="300"/>
+  <img src="/Screenshots/SimulatorScreen_06.png" width="300"/>  
 </kbd>
-
 
