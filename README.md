@@ -4,10 +4,10 @@ React-Native application, which synchronizes info from Google Calendar
 
 
 ## Aplication file structure:
-* -src/
-* ----components/
-* -------App.js
-* -------CurrentTimeAndEvents.js
+-src/
+----components/
+-------App.js
+-------CurrentTimeAndEvents.js
 * -------EventInProgress.js
 * -------EventItem.js
 * -------EventItemInProgress.js
