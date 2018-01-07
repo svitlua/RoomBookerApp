@@ -25,7 +25,7 @@ Link to Google Calendar: https://calendar.google.com/calendar/embed?src=q15dd352
 <b> Initializing App screen</b>  </br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_01.png" width="300"/>  
-</kbd></br>
+</kbd></br></br></br>
 <b> Event-in-progress screen  </b></br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_02.png" width="300"/>  
@@ -33,17 +33,17 @@ Link to Google Calendar: https://calendar.google.com/calendar/embed?src=q15dd352
 <b>Event details screen </b>  </br> 
 <kbd>
   <img src="/Screenshots/SimulatorScreen_03.png" width="300"/>  
-</kbd></br>
+</kbd></br></br></br>
 <b> Future events screen  </b>  </br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_04.png" width="300"/>  
-</kbd></br>
+</kbd></br></br></br>
 <b> Past events screen  </b>  </br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_05.png" width="300"/>  
-</kbd></br>
+</kbd></br></br></br>
 <b> No events scheduled screen  </b>  </br>
 <kbd>
   <img src="/Screenshots/SimulatorScreen_06.png" width="300"/>  
-</kbd></br>
+</kbd></br></br></br>
 
