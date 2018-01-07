@@ -21,7 +21,7 @@ React-Native application, which synchronizes info from Google Calendar
 
 ## Application Screenshots:
 ### Initializing App Screen
-<img src="/Screenshots/SimulatorScreen_01.png" width="400" style="border:5px solid black"/>
+<img src="/Screenshots/SimulatorScreen_01.png" width="400"/>
 
 
 
