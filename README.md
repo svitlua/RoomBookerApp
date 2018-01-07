@@ -20,8 +20,8 @@ React-Native application, which synchronizes info from Google Calendar
 *-index.js
 
 ## Application Screenshots:
-Initializing App Screen
-<img src="/Screenshots/SimulatorScreen_01.png" width="200" />
-![Initializing App screen](/Screenshots/SimulatorScreen_01.png =250x)
+### Initializing App Screen
+<img src="/Screenshots/SimulatorScreen_01.png" width="400" />
+
 
 
